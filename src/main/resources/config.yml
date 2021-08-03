@@ -1,0 +1,17 @@
+MINECRAFT_GLOBAL_CHANNEL: "global"
+Discord:
+  Enable: false
+  GLOBAL_CHANNELID: ""
+  GUILDID: ""
+  TOKEN: ""
+  PREFIX: "/"
+  GAME: "Meu dev é um cara bacana"
+Minecraft:
+  Prefix: ""
+Message:
+  JoinQuitMessage:
+    Enable: true
+    JoinMessage: "§6[+] §b %nick% §fEntrou no servidor!"
+    QuitMessage: "§c[+] §b %nick% §fSaiu no servidor!"
+  Links:
+    DiscordMessage: "§6Link Para nosso discord: §fLINK"

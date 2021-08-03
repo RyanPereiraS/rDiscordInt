@@ -1,0 +1,8 @@
+name: rDiscordInt
+version: ${project.version}
+main: devumgamer.ddiscordint.rDiscordInt
+api-version: 1.15
+loadbefore: [ Legendchat ]
+depend: [ Legendchat ]
+commands:
+  discord:
